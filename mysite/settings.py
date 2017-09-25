@@ -25,7 +25,7 @@ SECRET_KEY = 'b^fx_+eq$^2r)e5#o&!q_#o!q^!$tl)+^e^8xygp=$g8pv_&jl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'banyanwisdome.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'banyanwisdom.pythonanywhere.com']
 
 
 # Application definition
