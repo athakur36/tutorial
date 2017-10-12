@@ -29,7 +29,7 @@ SECRET_KEY = 'b%d#2*+2b+k1snoc5rwyn&&$+_@=ep#x_brpxy!2+04e$x2)xh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<banyanwisdom>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'banyanwisdom.pythonanywhere.com']
 
 
 # Application definition
