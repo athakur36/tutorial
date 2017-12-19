@@ -1,0 +1,58 @@
+.footer {
+  width:100%;
+  margin-top:50px;
+ }
+.title {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.separator {
+    margin-top: 31px;
+    margin-bottom: 20px;
+    height: 10px;
+    clear: both;
+    display: block;
+    width: 100%;
+    border-top: 2px dotted #366;
+}
+.borderexample
+{
+border-style:solid;
+border-color:grey;
+}
+
+.slider-handle{
+  top:15px;
+}
+h2 {
+  margin-top:50px;
+}
+
+.wrapper {
+  padding: 5px 10px;
+}
+
+.text {
+  text-align: justify;
+}
+
+hr
+{
+  background-color: rgba(144, 144, 144, 0.7);
+  border: 0 none;
+  color: #eee;
+  height: 2px;
+  //width: 98%;
+  margin: 15px 0;
+}
+
+.face{
+  position: absolute;
+  border: 2px solid #009900;
+}
+#detect{
+  margin-left: 15%;
+  cursor: pointer;
+  cursor: hand;
+}
